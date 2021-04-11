@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Philosophy Facts</string>
+
+
+
+    <!--Categories-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+    <string name="search">Search...</string>
+    <string name="featured_location_description">All the locations that are featured and have top demand in top</string>
+    <string name="featured_locations">All Featured Locations</string>
+
+
+</resources>
